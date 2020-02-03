@@ -1,2 +1,2 @@
 # geb-spock-udemy
-Learn automation with Geb and Spock
+Udemy course "Learn automation with Geb and Spock". Another wrapper on Selenium WebDriver to resolve Automation need, so learning Geb and Spock to automate.
